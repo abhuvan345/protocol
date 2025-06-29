@@ -31,7 +31,7 @@ export default function CodingClubWebsite() {
               <div className="bg-gradient-to-r from-blue-500 to-purple-600 p-2 rounded-lg">
                 <Code2 className="h-6 w-6 text-white" />
               </div>
-              <span className="text-xl font-bold text-white">CodeCraft Club</span>
+              <span className="text-xl font-bold text-white">Protocol</span>
             </div>
             <div className="hidden md:flex items-center space-x-6">
               <Link href="#about" className="text-gray-300 hover:text-white transition-colors">
@@ -433,7 +433,7 @@ export default function CodingClubWebsite() {
                 <div className="bg-gradient-to-r from-blue-500 to-purple-600 p-2 rounded-lg">
                   <Code2 className="h-6 w-6 text-white" />
                 </div>
-                <span className="text-xl font-bold text-white">CodeCraft Club</span>
+                <span className="text-xl font-bold text-white">Protocol</span>
               </div>
               <p className="text-gray-400">
                 Empowering the next generation of developers through collaboration, learning, and innovation.
@@ -505,7 +505,7 @@ export default function CodingClubWebsite() {
             </div>
           </div>
           <div className="border-t border-white/10 mt-8 pt-8 text-center">
-            <p className="text-gray-400">© {new Date().getFullYear()} CodeCraft Club. All rights reserved.</p>
+            <p className="text-gray-400">© {new Date().getFullYear()} Protocol. All rights reserved.</p>
           </div>
         </div>
       </footer>
